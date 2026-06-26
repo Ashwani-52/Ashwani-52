@@ -49,9 +49,9 @@
 
 ---
 
-<!-- 🎮 Vertical Climbing Mario Loop -->
+<!-- 🎮 Auto-Playing Looping Snake Game Grid -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/t-richards/t-richards/master/mario.gif" alt="Mario Climbing Animation" width="60%" />
+  <img src="https://raw.githubusercontent.com/Ashwani-52/Ashwani-52/output/github-contribution-grid-snake.svg" alt="Snake Game Loop" width="100%" />
 </div>
 
 </div>
