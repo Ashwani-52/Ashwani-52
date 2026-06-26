@@ -49,10 +49,9 @@
 
 ---
 
-<!-- 🎮 Continuous Loop Mario Animation -->
-<!-- 🎮 Continuous Loop Mario Animation -->
+<!-- 🎮 Vertical Climbing Mario Loop -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/39Daph/39Daph/master/mario.gif" alt="Mario Side Scroller Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/t-richards/t-richards/master/mario.gif" alt="Mario Climbing Animation" width="60%" />
 </div>
 
 </div>
